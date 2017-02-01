@@ -148,9 +148,6 @@
 	
 	<plugin name="cordova-plugin-geolocation" source="npm" />
 	
-<rim:permissions>
-    <rim:permit>read_geolocation</rim:permit>
-</rim:permissions>
 
     <access origin="*"/>
     <!-- Added the following intents to support the removal of whitelist code from base cordova to a plugin -->
